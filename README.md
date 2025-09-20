@@ -13,14 +13,20 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I am a Data Science undergraduate with strong foundations in Python, SQL, and Django.  
-My expertise lies in **data analysis, machine learning, and full-stack development**.  
-I love building intelligent applications, creating intuitive UI/UX designs, and turning data into actionable insights.  
-I have worked on impactful projects including an **NLP-based Depression Detection Web App**,  
-statistical models for education, and smart plant care systems.  
+I’m a Data Science undergraduate passionate about applying machine learning to real-world problems.  
+My work combines practical experimentation with research-driven approaches, where I focus on building  
+and improving models through hands-on projects.  
+
+Currently, I’m part of a team developing **handwritten text recognition (HTR)** solutions for Notescape,  
+where we experiment with the **IAM dataset** and other benchmarks. Our efforts center on improving  
+**character error rate (CER)** and **word error rate (WER)** by exploring advanced training strategies,  
+data augmentation, decoding methods, and error analysis.  
+
+Beyond HTR, I enjoy working on intelligent applications, data-driven systems, and exploring how AI can  
+be integrated into impactful domains.
 </p>
 
 ###
@@ -56,6 +62,11 @@ statistical models for education, and smart plant care systems.
 
 <h3 align="left">🚀 Projects</h3>
 
+- **Notescape (Team Project): AI-assisted study workspace**  
+  - My role: CI/CD setup (GitHub Actions), file-upload pipeline, PDF chunking for downstream processing/search, merging teammates’ work (PR reviews), UI/UX design for study flows;   ongoing HTR research to improve accuracy on existing datasets (CER/WER benchmarking).  
+  - Tech: TypeScript, React  
+  - Repo: [NotescapeAI/Notescape](https://github.com/NotescapeAi/Notescape)  
+
 - **Depression Detection Web App** – NLP sentiment classifier using Streamlit, 85% accuracy  
 - **Advanced Statistics Project – Teaching Methods** – Studied emotional contagion in online education  
 - **Portfolio & CMS GUI (Tkinter)** – Modular CMS with Python OOP  
@@ -64,15 +75,6 @@ statistical models for education, and smart plant care systems.
 - **Sleep Posture Detection (Deep Learning)** – Vision Transformer-based model  
 - **Search Engine (DSA Project)** – BST-based query retriever  
 
-###
-
-<h3 align="left">🕹️ Games & GIS</h3>
-
-- 🎮 Passion for exploring **game development concepts**, gamified UI/UX design, and interactive learning apps.  
-- 🗺️ Interested in **Geographic Information Systems (GIS)** and their role in smart cities, mapping, and spatial data visualization.  
-- 🧩 Exploring projects that combine **data science + GIS + gaming mechanics** to solve real-world problems.  
-
-###
 
 <h3 align="left">🏆 Achievements</h3>
 
@@ -110,10 +112,4 @@ statistical models for education, and smart plant care systems.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HajraAmir/HajraAmir/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HajraAmir.HajraAmir"  />
 </div>
