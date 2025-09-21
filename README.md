@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hajra Amir and I'm a Data Science Undergraduate from Lahore, Pakistan</h2>
+<<h2 align="left">Hi 👋! My name is Hajra Amir and I'm a Data Science Undergraduate from Lahore, Pakistan</h2>
 
 ###
 
@@ -63,7 +63,7 @@ be integrated into impactful domains.
 <h3 align="left">🚀 Projects</h3>
 
 - **Notescape (Team Project): AI-assisted study workspace**  
-  - My role: CI/CD setup (GitHub Actions), file-upload pipeline, PDF chunking for downstream processing/search, merging teammates’ work (PR reviews), UI/UX design for study flows;   ongoing HTR research to improve accuracy on existing datasets (CER/WER benchmarking).  
+  - - My role: Built the landing page UI and flashcards module, and contributed to overall UI/UX design. I am also conducting HTR research to improve accuracy on standard datasets (CER/WER benchmarking).    
   - Tech: TypeScript, React  
   - Repo: [NotescapeAI/Notescape](https://github.com/NotescapeAi/Notescape)  
 
@@ -112,4 +112,7 @@ be integrated into impactful domains.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HajraAmir/HajraAmir/output/snake.svg" alt="Snake animation" />
+
 </div>
+
+
