@@ -63,7 +63,7 @@ be integrated into impactful domains.
 <h3 align="left">🚀 Projects</h3>
 
 - **Notescape (Team Project): AI-assisted study workspace**  
-  - - My role: Built the landing page UI and flashcards module, and contributed to overall UI/UX design. I am also conducting HTR research to improve accuracy on standard datasets (CER/WER benchmarking).    
+  - My role: Built the landing page UI and flashcards module, and contributed to overall UI/UX design. I am also conducting HTR research to improve accuracy on standard datasets (CER/WER benchmarking).    
   - Tech: TypeScript, React  
   - Repo: [NotescapeAI/Notescape](https://github.com/NotescapeAi/Notescape)  
 
