@@ -1,4 +1,4 @@
-<<h2 align="left">Hi 👋! My name is Hajra Amir and I'm a Data Science Undergraduate from Lahore, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Hajra Amir and I'm a Data Science Undergraduate from Lahore, Pakistan</h2>
 
 ###
 
