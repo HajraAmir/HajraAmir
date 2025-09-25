@@ -34,7 +34,7 @@ be integrated into impactful domains.
 <h3 align="left">🎓 Education</h3>
 
 - Bachelor's in Data Science, University of the Punjab PUCIT (2022 – Present)  
-- 🎓 Intermediate, Unique College For Girls (2020 – 2022)
+- Intermediate, Unique College For Girls (2020 – 2022)
 
 ###
 
