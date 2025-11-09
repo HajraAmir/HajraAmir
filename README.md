@@ -79,7 +79,7 @@ be integrated into impactful domains.
 <h3 align="left">🏆 Achievements</h3>
 
 - 🥉 Triple Recognition (Notebook Contributor) on Kaggle  
-- 🥉  Bronze Medal (Dataset Contributor) on Kaggle  
+-  Bronze Medal (Dataset Contributor) on Kaggle  
 
 ###
 
