@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
 I’m a Data Science undergraduate passionate about applying machine learning to real-world problems.  
