@@ -102,7 +102,7 @@ be integrated into impactful domains.
 
 ###
 
-<h3 align="left">My GitHub Stats</h3>
+<h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HajraAmir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
