@@ -66,7 +66,19 @@ be integrated into impactful domains.
   - My role: Built the landing page UI and flashcards module, and contributed to overall UI/UX design. I am also conducting HTR research to improve accuracy on standard datasets (CER/WER benchmarking).    
   - Tech: TypeScript, React  
   - Repo: [NotescapeAI/Notescape](https://github.com/NotescapeAi/Notescape)  
+### 🧠 SmartResumeCheck (NLP + AI System)
+AI-powered resume–job description matching system using semantic NLP.
 
+- Built a full-stack system using **React + Flask**
+- Implemented **spaCy-based NLP pipeline** for job requirement extraction
+- Used **SBERT embeddings** for semantic similarity matching
+- Developed scoring system using **cosine similarity**
+- Supports **Student Mode & HR Mode**
+- Batch processing for multiple resumes (CSV / folder upload)
+- Generates **match percentage + improvement suggestions**
+
+🔹 Tech: React, Flask, spaCy, SBERT, NumPy  
+🔹 Focus: NLP, HR Tech, Semantic Matching  
 - **Depression Detection Web App** – NLP sentiment classifier using Streamlit, 85% accuracy  
 - **Advanced Statistics Project – Teaching Methods** – Studied emotional contagion in online education  
 - **Portfolio & CMS GUI (Tkinter)** – Modular CMS with Python OOP  
