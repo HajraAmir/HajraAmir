@@ -24,9 +24,6 @@ improving models through hands-on projects.
 
 - <strong>PersonaBot</strong> — a RAG-based profile intelligence platform that extracts structured career data
   from resumes and LinkedIn profiles and answers natural-language questions using vector search and Groq LLMs.
-- <strong>Notescape</strong> — building the RAG-based chatbot and spaced-repetition study engine, and leading
-  handwritten text recognition (HTR) research on the IAM dataset and other benchmarks to improve character
-  error rate (CER) and word error rate (WER).
 
 Beyond these, I enjoy working on intelligent applications, data-driven systems, and exploring how AI can be
 integrated into impactful domains.
